@@ -1,5 +1,5 @@
 def extract_one(filename: str) -> dict:
-    pass
+    print('Extract one')
 
 
 def extract_all(folder: str) -> dict:
