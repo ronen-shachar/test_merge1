@@ -3,4 +3,4 @@ def extract_one(filename: str) -> dict:
 
 
 def extract_all(folder: str) -> dict:
-    pass
+    print('extract all')
